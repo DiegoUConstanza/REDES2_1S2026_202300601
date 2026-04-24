@@ -13,3 +13,5 @@ Repositorio dedicado a los proyectos del curso de Redes 2.
 ## Proyectos
 
 - **Proyecto 1**: [Enlace al proyecto](./Proyecto1)
+
+- **Proyecto 2**: [Enlace al proyecto](./Proyecto2)
